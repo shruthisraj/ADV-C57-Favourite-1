@@ -1,0 +1,19 @@
+body{
+  text-align: center;
+    background-image: linear-gradient(red, purple);
+}
+.line{
+  height: 6px;
+  background-color: #000;
+  width: 70px;
+  margin: 8px auto;
+}
+#image{
+  width: 175px;
+  margin-bottom: 50px;
+  border-radius: 50%;
+}
+h1{
+  text-shadow: 2px 2px #f8bbd0;
+  
+}
